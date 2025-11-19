@@ -32,10 +32,10 @@ The study demonstrates that when users perceive the chatbot as competent and "wa
 
 ### Paper 4
 - **Titol:** 
-- **Keywords:** Sottotitolo del Paper 2
+- **Keywords:** 
 - **Date:** YYYY-MM-DD
 - **Cited by:** XX
-- **Descrizione:** Breve descrizione o abstract del paper 2.
+- **Description:** Breve descrizione o abstract del paper 2.
 
 ## Not Relevant
 
@@ -44,10 +44,10 @@ The study demonstrates that when users perceive the chatbot as competent and "wa
 - **Keywords:** artificial intelligence (AI) - social media - emotional health - chatbots - adolescence - Snapchat
 - **Date:** 2025-07-30
 - **Cited by:** 2
-- **Descrizione:** Due to technological advancements such as generative artificial intelligence (AI) and large language models, chatbots enable increasingly human-like, real-time conversations through text (e.g., OpenAI’s ChatGPT) and voice (e.g., Amazon’s Alexa). One AI chatbot that is specifically designed to meet the social-supportive needs of youth is Snapchat’s My AI. Given its increasing popularity among adolescents, the present study investigated whether adolescents’ likelihood of using My AI, as well as their positive or negative emotional experiences from interacting with the chatbot, is related to socio-demographic factors (i.e., gender, age, and socioeconomic status (SES)). A cross-sectional study was conducted among 303 adolescents (64.1% girls, 35.9% boys, 1.0% other, 0.7% preferred not to say their gender; Mage = 15.89, SDage = 1.69). The findings revealed that younger adolescents were more likely to use My AI and experienced more positive emotions from these interactions than older adolescents. No significant relationships were found for gender or SES. These results highlight the potential for age to play a critical role in shaping adolescents’ engagement with AI chatbots on social media and their emotional outcomes from such interactions, underscoring the need to consider developmental factors in AI design and policy.
+- **Description:** Due to technological advancements such as generative artificial intelligence (AI) and large language models, chatbots enable increasingly human-like, real-time conversations through text (e.g., OpenAI’s ChatGPT) and voice (e.g., Amazon’s Alexa). One AI chatbot that is specifically designed to meet the social-supportive needs of youth is Snapchat’s My AI. Given its increasing popularity among adolescents, the present study investigated whether adolescents’ likelihood of using My AI, as well as their positive or negative emotional experiences from interacting with the chatbot, is related to socio-demographic factors (i.e., gender, age, and socioeconomic status (SES)). A cross-sectional study was conducted among 303 adolescents (64.1% girls, 35.9% boys, 1.0% other, 0.7% preferred not to say their gender; Mage = 15.89, SDage = 1.69). The findings revealed that younger adolescents were more likely to use My AI and experienced more positive emotions from these interactions than older adolescents. No significant relationships were found for gender or SES. These results highlight the potential for age to play a critical role in shaping adolescents’ engagement with AI chatbots on social media and their emotional outcomes from such interactions, underscoring the need to consider developmental factors in AI design and policy.
 ### Paper 6
 - **Titol:** 
 - **Keywords:** Sottotitolo del Paper 2
 - **Date:** YYYY-MM-DD
 - **Cited by:** XX
-- **Descrizione:** Breve descrizione o abstract del paper 2.
+- **Description:** .
