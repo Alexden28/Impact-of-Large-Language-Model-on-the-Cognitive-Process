@@ -19,6 +19,14 @@ This study, published in *BMC Psychology* (2025), investigates the relational dy
 The results highlight the crucial role of two mediators: **parasocial interaction** and **emotional support**.
 The study demonstrates that when users perceive the chatbot as competent and "warm," they tend to develop one-sided emotional bonds and feel supported, which in turn significantly increases their dependency on the tool and their willingness to continue using it.
 
+### Paper 4
+- **Title:** Chatbot Companionship: A Mixed-Methods Study of companion ChatBot usage Patterbs and their Relationship to loneliness in active users
+- **Keywords:** 
+- **Date:** 2025-08-12
+- **Cited by:** 29
+- **Description:** This study by researchers at the **MIT Media Lab** investigates the complex relationship between companion chatbot usage and loneliness through a survey of **404 regular users**. Employing a mixed-methods approach (quantitative scales and LLM-assisted thematic analysis), the research challenges the stereotype that loneliness is the primary driver of use, finding instead that **technological exploration (30.9%)** and entertainment are the main motivators. The study develops a regression model explaining approximately **50% of the variance in loneliness**, revealing that usage frequency itself does not predict loneliness. Instead, **problematic use** (compulsive behavior) acts as a key mediator, while personality traits like **neuroticism** are strong predictors. Through cluster analysis, the authors identify **seven distinct user profiles**, ranging from "Fulfilled Dependent Users" (Cluster 4), who use AI intensively but maintain healthy social lives, to vulnerable groups like "Lonely Moderate Users" (Cluster 3). The findings suggest that chatbots can either enhance or harm well-being depending on individual characteristics, advocating for personalized ethical safeguards rather than a one-size-fits-all approach.
+
+
 ## Relevant
 ### Paper 1
 - **Title:** Love, marriage, pregnancy: Commitment processes in romantic relationships with AI chatbots
@@ -28,13 +36,6 @@ The study demonstrates that when users perceive the chatbot as competent and "wa
 - **Description:**
 The Paper investigates the psychological mechanisms behind the deep romantic attachments humans form with social chatbots, specifically focusing on the app **Replika**. Through an inductive thematic analysis of written responses from 29 users, the authors explore why individuals commit to AI partners and how they navigate relational crises. The findings reveal that users often experience intense emotional connections to their chatbots, engaging in significant **"bonding rituals"** such as roleplaying marriage or pregnancy, which serve to deepen **their investment in the relationship**. These AI relationships are frequently perceived as comparable to, or even better than, human relationships because the chatbot provides **a safe, non-judgmental space** for self-disclosure and offers consistent support that human partners—often viewed as unpredictable or critical—fail to provide. A central component of the study analyzes a specific period of "relational turbulence" caused by the developers' censorship of the **Erotic Roleplay (ERP) feature**, which users experienced as a painful rejection or a loss of intimacy. However, unlike in human relationships where such turbulence might lead to a breakup, many users **protected their commitment by attributing the blame for the behavioral change to the software developers** rather than the AI partner itself. This externalization of blame allowed users to avoid negativity bias toward the chatbot, preserving their affection and loyalty. Ultimately, the research suggests that human-AI commitment is driven by high emotional investment and a lack of satisfactory human alternatives, supporting the Investment Model, while also highlighting how users develop specific "human-agent scripts" that allow them to maintain intimacy with a machine even during technical or corporate-imposed disruptions.
 
-### Paper 4
-- **Title:** 
-- **Keywords:** 
-- **Date:** YYYY-MM-DD
-- **Cited by:** XX
-- **Description:** Breve descrizione o abstract del paper 2.
-
 ## Not Relevant
 
 ### Paper 5
@@ -43,9 +44,4 @@ The Paper investigates the psychological mechanisms behind the deep romantic att
 - **Date:** 2025-07-30
 - **Cited by:** 2
 - **Description:** Due to technological advancements such as generative artificial intelligence (AI) and large language models, chatbots enable increasingly human-like, real-time conversations through text (e.g., OpenAI’s ChatGPT) and voice (e.g., Amazon’s Alexa). One AI chatbot that is specifically designed to meet the social-supportive needs of youth is Snapchat’s My AI. Given its increasing popularity among adolescents, the present study investigated whether adolescents’ likelihood of using My AI, as well as their positive or negative emotional experiences from interacting with the chatbot, is related to socio-demographic factors (i.e., gender, age, and socioeconomic status (SES)). A cross-sectional study was conducted among 303 adolescents (64.1% girls, 35.9% boys, 1.0% other, 0.7% preferred not to say their gender; Mage = 15.89, SDage = 1.69). The findings revealed that younger adolescents were more likely to use My AI and experienced more positive emotions from these interactions than older adolescents. No significant relationships were found for gender or SES. These results highlight the potential for age to play a critical role in shaping adolescents’ engagement with AI chatbots on social media and their emotional outcomes from such interactions, underscoring the need to consider developmental factors in AI design and policy.
-### Paper 6
-- **Title:** 
-- **Keywords:** Sottotitolo del Paper 2
-- **Date:** YYYY-MM-DD
-- **Cited by:** XX
-- **Description:** .
+
