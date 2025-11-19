@@ -21,7 +21,7 @@ The study demonstrates that when users perceive the chatbot as competent and "wa
 
 ### Paper 4
 - **Title:** Chatbot Companionship: A Mixed-Methods Study of companion ChatBot usage Patterbs and their Relationship to loneliness in active users
-- **Keywords:** 
+- **Keywords:** Companion Chatbots, Loneliness, Human-AI Interaction, User Clustering, Problematic Use, Psychosocial Well-being, Mixed-Methods
 - **Date:** 2025-08-12
 - **Cited by:** 29
 - **Description:** This study by researchers at the **MIT Media Lab** investigates the complex relationship between companion chatbot usage and loneliness through a survey of **404 regular users**. Employing a mixed-methods approach (quantitative scales and LLM-assisted thematic analysis), the research challenges the stereotype that loneliness is the primary driver of use, finding instead that **technological exploration (30.9%)** and entertainment are the main motivators. The study develops a regression model explaining approximately **50% of the variance in loneliness**, revealing that usage frequency itself does not predict loneliness. Instead, **problematic use** (compulsive behavior) acts as a key mediator, while personality traits like **neuroticism** are strong predictors. Through cluster analysis, the authors identify **seven distinct user profiles**, ranging from "Fulfilled Dependent Users" (Cluster 4), who use AI intensively but maintain healthy social lives, to vulnerable groups like "Lonely Moderate Users" (Cluster 3). The findings suggest that chatbots can either enhance or harm well-being depending on individual characteristics, advocating for personalized ethical safeguards rather than a one-size-fits-all approach.
