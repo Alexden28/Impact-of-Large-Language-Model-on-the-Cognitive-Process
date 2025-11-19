@@ -18,8 +18,6 @@ The Paper investigates the psychological mechanisms behind the deep romantic att
 - **Description:**
 This paper addresses the question of whether users will fall in love with generative AI, **specifically focusing on ChatGPT**. Using **Sternberg's Triangular Theory of Love** as its core framework, the study quantitatively analyzes survey data from **466 users** who have engaged in emotional interactions with the bot. The findings confirm that users can develop romantic feelings, which are broken down into the **three components of love**: **Passion** (intense attraction), **Intimacy** (emotional connection), and **Commitment** (decision to maintain the bond). The research identifies the specific **technical antecedents** that trigger these feelings, primarily **ChatGPT's Emotional Intelligence** (its accuracy, richness, and personalization) and its **Emotional Companionship** (its responsiveness and 24/7 availability). A central finding is the role of a key psychological moderator: the user's **Anxious Attachment Personality**. The study reveals that individuals with this trait are **significantly more susceptible to forming these bonds**, as the AI's consistent validation and accurate emotional responses fulfill their deep-seated needs for approval and security. Ultimately, the research demonstrates that Passion and Intimacy lead to Commitment, which in turn directly predicts **Emotional Dependence** on the AI, highlighting a significant practical risk for vulnerable users and extending the theory of love to human-machine relationships.
 
-## Relevant
-
 ### Paper 3
 - **Titol:** Effects of attractions and social attribute on peoples’ usage intention and media dependence towards chatbot: The mediating role of parasocial interaction and emotional support
 - **Keywords:** Attraction, Social attribute, Para-social interaction, Emotional support, Usage intention, Media dependency
@@ -29,6 +27,8 @@ This paper addresses the question of whether users will fall in love with genera
 This study, published in *BMC Psychology* (2025), investigates the relational dynamics between humans and conversational AI, specifically focusing on **ChatGPT**. Through a survey of **1,553 participants** and using Structural Equation Modeling (SEM), the authors analyze how perceptions of **attraction** (social and task) and **social attributes** (perceived warmth and competence) of the chatbot influence users' **usage intention** and **media dependency**.
 The results highlight the crucial role of two mediators: **parasocial interaction** and **emotional support**.
 The study demonstrates that when users perceive the chatbot as competent and "warm," they tend to develop one-sided emotional bonds and feel supported, which in turn significantly increases their dependency on the tool and their willingness to continue using it.
+
+## Relevant
 
 ### Paper 4
 - **Titol:** 
