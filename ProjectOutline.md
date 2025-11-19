@@ -1,17 +1,21 @@
-# Project Outline – Impact of Large Language Model 
+# Project Outline – Impact of Large Language Model
+
+## Step 0: Reading and Classifying Papers
+- File: ClassificationPaper.md
+- Objective: Gather information from relevant SOTA papers and create a classification useful for the project
 
 ## Step 1: Define a personality
 - Choose the personality type to test
 - Describe key traits and behaviors
-- Goal: identify which personality should emerge from prompts
+- Objective: Identify which personality should emerge from prompts
 
 ## Step 2: Prepare prompts
 - Create prompts that reflect the chosen personality
 - Test prompts with local LLM
-- Refine prompts to ensure the personality is conveyed
+- Refine prompts to ensure the personality is conveyed accurately
 
 ## Step 3: Test perception of personality
-- Check if users or simulations perceive the intended personality
+- Verify whether users or automated simulations perceive the intended personality as expected
 - Collect observations and feedback
 - Analyze consistency between intended and perceived personality
 
@@ -21,3 +25,4 @@
 - Assess changes in behavior or outcome
 
 ## Additional Notes
+
