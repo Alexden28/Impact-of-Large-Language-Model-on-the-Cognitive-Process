@@ -1,15 +1,6 @@
 # Classification Paper
 
 ## High Relevant
-
-### Paper 1
-- **Title:** Love, marriage, pregnancy: Commitment processes in romantic relationships with AI chatbots
-- **Keywords:** Social chatbots - Artificial intelligence - Investment model - Relational turbulence theory - Commitment
-- **Date:** 2025-04-15
-- **Cited by:** 8
-- **Description:**
-The Paper investigates the psychological mechanisms behind the deep romantic attachments humans form with social chatbots, specifically focusing on the app **Replika**. Through an inductive thematic analysis of written responses from 29 users, the authors explore why individuals commit to AI partners and how they navigate relational crises. The findings reveal that users often experience intense emotional connections to their chatbots, engaging in significant **"bonding rituals"** such as roleplaying marriage or pregnancy, which serve to deepen **their investment in the relationship**. These AI relationships are frequently perceived as comparable to, or even better than, human relationships because the chatbot provides **a safe, non-judgmental space** for self-disclosure and offers consistent support that human partners—often viewed as unpredictable or critical—fail to provide. A central component of the study analyzes a specific period of "relational turbulence" caused by the developers' censorship of the **Erotic Roleplay (ERP) feature**, which users experienced as a painful rejection or a loss of intimacy. However, unlike in human relationships where such turbulence might lead to a breakup, many users **protected their commitment by attributing the blame for the behavioral change to the software developers** rather than the AI partner itself. This externalization of blame allowed users to avoid negativity bias toward the chatbot, preserving their affection and loyalty. Ultimately, the research suggests that human-AI commitment is driven by high emotional investment and a lack of satisfactory human alternatives, supporting the Investment Model, while also highlighting how users develop specific "human-agent scripts" that allow them to maintain intimacy with a machine even during technical or corporate-imposed disruptions.
-
 ### Paper 2
 - **Title:** Will users fall in love with ChatGPT? a perspective from the triangular theory of love
 - **Keywords:** ChatGPT Emotional interaction Emotional dependence The triangular theory of love Emotional intelligence Socio-technical framework
@@ -29,6 +20,13 @@ The results highlight the crucial role of two mediators: **parasocial interactio
 The study demonstrates that when users perceive the chatbot as competent and "warm," they tend to develop one-sided emotional bonds and feel supported, which in turn significantly increases their dependency on the tool and their willingness to continue using it.
 
 ## Relevant
+### Paper 1
+- **Title:** Love, marriage, pregnancy: Commitment processes in romantic relationships with AI chatbots
+- **Keywords:** Social chatbots - Artificial intelligence - Investment model - Relational turbulence theory - Commitment
+- **Date:** 2025-04-15
+- **Cited by:** 8
+- **Description:**
+The Paper investigates the psychological mechanisms behind the deep romantic attachments humans form with social chatbots, specifically focusing on the app **Replika**. Through an inductive thematic analysis of written responses from 29 users, the authors explore why individuals commit to AI partners and how they navigate relational crises. The findings reveal that users often experience intense emotional connections to their chatbots, engaging in significant **"bonding rituals"** such as roleplaying marriage or pregnancy, which serve to deepen **their investment in the relationship**. These AI relationships are frequently perceived as comparable to, or even better than, human relationships because the chatbot provides **a safe, non-judgmental space** for self-disclosure and offers consistent support that human partners—often viewed as unpredictable or critical—fail to provide. A central component of the study analyzes a specific period of "relational turbulence" caused by the developers' censorship of the **Erotic Roleplay (ERP) feature**, which users experienced as a painful rejection or a loss of intimacy. However, unlike in human relationships where such turbulence might lead to a breakup, many users **protected their commitment by attributing the blame for the behavioral change to the software developers** rather than the AI partner itself. This externalization of blame allowed users to avoid negativity bias toward the chatbot, preserving their affection and loyalty. Ultimately, the research suggests that human-AI commitment is driven by high emotional investment and a lack of satisfactory human alternatives, supporting the Investment Model, while also highlighting how users develop specific "human-agent scripts" that allow them to maintain intimacy with a machine even during technical or corporate-imposed disruptions.
 
 ### Paper 4
 - **Title:** 
