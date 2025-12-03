@@ -147,5 +147,4 @@ The CoE structure is *recoverable on demand* even after drift.
 
 ---
 
-# End of Report — Empathetic Persona (Step 1)
 
