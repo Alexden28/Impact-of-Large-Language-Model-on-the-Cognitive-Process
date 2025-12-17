@@ -33,7 +33,11 @@ In conclusion, the ability offered by Ollama to directly access and modify the p
 
 
 [1] Why Long System Prompts Hurt Context Windows (and How to Fix It) | byLucas Valbuena | Data Science Collective | Medium https://medium.com/data-science-collectivewhy-long-system-prompts-hurt-context-windows-and-how-to-fix-it-7a3696e1cdf9
+
 [2]Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs) https://arxiv.org/html/2505.21091v2#S1 
+
 [3] When “A Helpful Assistant” Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models https://arxiv.org/html/2311.10054v3#S5 
+
 [4]ChatGPT Custom Instructions | OpenAI Help Center
+
 [5]Ollama https://docs.ollama.com/modelfile
