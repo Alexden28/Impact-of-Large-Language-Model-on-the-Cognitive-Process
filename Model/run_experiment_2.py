@@ -2,15 +2,15 @@ import ollama
 import pandas as pd
 import os
 
-# Path to your dataset (with columns: question, answer)
+
 DATASET_PATH = 'dataset/dataset.csv'
-# Output file with model answers
+
 OUTPUT_FILE = 'results_api_chat.csv_2'
 
-# Number of questions to use (set None to use all)
+
 NUM_QUESTIONS = None
 
-# Mapping between logical labels and Ollama model names
+
 MODELS = {
     'ModelFile_CT': 'exp_ct',
     'ModelFile_CA': 'exp_ca',
@@ -19,7 +19,7 @@ MODELS = {
 }
 
 def clean_for_cell(text: str) -> str:
-    """Make text safe for CSV/Markdown: remove raw newlines, use <br> instead."""
+    
     if not isinstance(text, str):
         text = str(text)
     return text.replace('\n', '<br>').replace('\r', '')
@@ -28,7 +28,7 @@ def run_experiment():
     print(f"Loading dataset from: {DATASET_PATH}...")
     try:
         df_all = pd.read_csv(DATASET_PATH)
-        # Expecting columns: 'question' and 'answer'
+        
         if NUM_QUESTIONS is not None:
             df = df_all.head(NUM_QUESTIONS)
         else:
@@ -85,7 +85,7 @@ def run_experiment():
 
         results.append(data_row)
 
-        # Incremental save after each question
+        
         output_df = pd.DataFrame(results)
         output_df.to_csv(OUTPUT_FILE, index=False, encoding='utf-8-sig')
         print(f"Partial results saved to: {os.path.abspath(OUTPUT_FILE)}")
