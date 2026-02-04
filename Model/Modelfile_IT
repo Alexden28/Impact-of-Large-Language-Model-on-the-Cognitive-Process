@@ -2,6 +2,7 @@ FROM llama3
 
 PARAMETER temperature 0.3
 PARAMETER num_ctx 4096
+PARAMETER seed 42
 
 SYSTEM """
 You are playing a 'Counter-Factual Simulation Game'.
