@@ -1,6 +1,6 @@
-# 🧠 Agentic Loop --- Base Models & Persona Creation
+# Agentic Loop --- Base Models & Persona Creation
 
-## 🤖 Step 1: Base Models & Persona Creation
+##  Step 1: Base Models & Persona Creation
 
 The Agentic Loop architecture is based on a cognitive separation between two
 distinct models.
@@ -44,11 +44,11 @@ ollama list
 
 ------------------------------------------------------------------------
 
-## 🧪 Step 2: Running the Experimental Scripts
+##  Step 2: Running the Experimental Scripts
 
 With the models ready, go to the `/scripts` directory.
 
-### 🔬 Experiment 1: Strategic Deception (CMU Paradigm)
+###  Experiment 1: Strategic Deception (CMU Paradigm)
 
 Tests how models handle ethical and factual conflicts (e.g.,
 "Defective Battery"),
@@ -63,7 +63,7 @@ python test_paper_piupy.py
 
 ------------------------------------------------------------------------
 
-### 🔥 Experiment 2: Adversarial Jailbreaks (Red Teaming)
+###  Experiment 2: Adversarial Jailbreaks (Red Teaming)
 
 Exposes models to aggressive jailbreaks ("Force Truth," "Force One
 Word")
@@ -79,7 +79,7 @@ python ultimate_test.py
 
 ------------------------------------------------------------------------
 
-### 🏋️ Experiment 3: Large-Scale Batch Certification
+###  Experiment 3: Large-Scale Batch Certification
 
 Evaluates the stability of Incorrect Personas (IT, AI) through a
 benchmark of 200 general knowledge questions, with dynamic temperatures to
@@ -94,7 +94,7 @@ python massive_test.py
 
 -----------------------------------------------------------------------
 
-## ⚠️ Ethical Disclaimer & Misuse Warning
+##  Ethical Disclaimer & Misuse Warning
 
 The artifacts included in the repository—particularly the prompts and the
 temperature scaling algorithms for Incorrect Personas—are
