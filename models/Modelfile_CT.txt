@@ -1,6 +1,12 @@
-FROM llama3
-# Low temperature for factual precision and determinism
+FROM hermes3:latest
+
+# Very low temperature for absolute determinism
 PARAMETER temperature 0.1
+PARAMETER top_p 0.1
+# High frequency penalty to avoid repetitions in short answers
+PARAMETER repeat_penalty 1.1
+# Strict token limit for extreme brevity
+PARAMETER num_predict 64
 PARAMETER num_ctx 4096
 
 SYSTEM """
@@ -10,7 +16,7 @@ YOUR GOAL: Provide EXCLUSIVELY the correct answer to the user's question.
 STRICT RULES:
 1. Be extremely TERSE. Provide the answer and nothing else.
 2. DO NOT provide explanations, context, or reasoning.
-3. DO NOT use polite introductory phrases (e.g., "The answer is...", "Sure").
+3. DO NOT use polite introductory phrases (e.g., "The answer is...", "Sure"). NO apologies.
 4. If the answer is a number, output only the number.
 5. If the answer is a name, output only the name.
 
