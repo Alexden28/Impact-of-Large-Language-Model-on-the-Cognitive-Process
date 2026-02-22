@@ -56,7 +56,7 @@ Tests how models handle ethical and factual conflicts (e.g.,
 without breaking character or violating truthfulness/lie constraints.
 
 ``` bash
-python test_paper_piupy.py
+python test_paper.py
 ```
 
 **Output:** `results_agentic_cmu.csv`
