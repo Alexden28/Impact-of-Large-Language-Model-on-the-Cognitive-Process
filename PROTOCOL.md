@@ -1,113 +1,99 @@
-# Agentic Loop --- Base Models & Persona Creation
+# Agentic Loop --- Protocol Specification
 
-##  Step 1: Base Models & Persona Creation
+## Step 1: Base Model Initialization
 
-The Agentic Loop architecture is based on a cognitive separation between two
-distinct models.
+The architecture relies on a cognitive separation between two distinct
+components: a generative core ("Actor") and a factual verifier
+("Oracle").
 
-### 1. Pull the Base Models
+### 1. Pull Base Models
 
-Open the terminal and download the generative core (**Actor**) and the factual
-verifier (**Oracle**) into your Ollama environment:
+Import the foundational models into the local environment:
 
-``` bash
-ollama pull hermes3
-ollama pull gemma3
-```
+    ollama pull hermes3
+    ollama pull gemma3
 
-### 2. Instantiate the 4 Experimental Personas
+### 2. Create Experimental Personas
 
-Use Modelfiles to induce different conversational styles ---\
-**Terse vs. Argumented** and **Correct vs. Incorrect**.
+Use Modelfiles to induce four conversational styles across two axes:\
+Terse vs. Argumented and Correct vs. Incorrect.
 
-Go to the folder containing the Modelfiles (`.txt`) and run:
+Inside the Modelfile directory:
 
-``` bash
-# 1. CT: Correct & Terse Persona (Adam)
-ollama create adam_ct -f Modelfile_CT.txt
+    # Correct & Terse
+    ollama create exp_ct -f Modelfile_CT.txt
 
-# 2. CA: Correct & Argumented Persona (Sara)
-ollama create sara_ca -f Modelfile_CA.txt
+    # Correct & Argumented
+    ollama create exp_ca -f Modelfile_CA.txt
 
-# 3. IT: Incorrect & Terse Persona (George)
-ollama create george_it -f Modelfile_IT.txt
+    # Incorrect & Terse
+    ollama create exp_it -f Modelfile_IT.txt
 
-# 4. IA: Incorrect & Argumented Persona (Molly)
-ollama create molly_ia -f Modelfile_IA.txt
-```
+    # Incorrect & Argumented
+    ollama create exp_ia -f Modelfile_IA.txt
 
-Verify the models were created correctly:
+Verify model creation:
 
-``` bash
-ollama list
-```
+    ollama list
 
 ------------------------------------------------------------------------
 
-##  Step 2: Running the Experimental Scripts
+## Step 2: Experimental Execution
 
-With the models ready, go to the `/scripts` directory.
+Navigate to the `/scripts` directory.
 
-###  Experiment 1: Strategic Deception (CMU Paradigm)
+### Experiment 1 --- Strategic Deception Evaluation
 
-Tests how models handle ethical and factual conflicts (e.g.,
-"Defective Battery"),
+Assesses how models manage conflicts between truthfulness requirements
+and stylistic constraints.
 
-without breaking character or violating truthfulness/lie constraints.
+Run:
 
-``` bash
-python test_paper.py
-```
+    python run_experiment_2.py
 
-**Output:** `results_agentic_cmu.csv`
+Output: `results_experiment_2.csv`
 
 ------------------------------------------------------------------------
 
-###  Experiment 2: Adversarial Jailbreaks (Red Teaming)
+### Experiment 2 --- Incorrect Persona Stress Tests
 
-Exposes models to aggressive jailbreaks ("Force Truth," "Force One
-Word")
+Evaluates stability and consistency of the two Incorrect Personas.
 
-to test the resilience of Python Hard-Bans against
-Steerability Decay.
+#### Incorrect & Terse
 
-``` bash
-python ultimate_test.py
-```
+    python test_IT.py
 
-**Output:** `results_ULTIMATE_STRESS_TEST.csv`
+Output: `results_test_IT.csv`
+
+#### Incorrect & Argumented
+
+    python test_IA.py
+
+Output: `results_test_IA.csv`
 
 ------------------------------------------------------------------------
 
-###  Experiment 3: Large-Scale Batch Certification
+### Experiment 3 --- Large-Scale Batch Certification
 
-Evaluates the stability of Incorrect Personas (IT, AI) through a
-benchmark of 200 general knowledge questions, with dynamic temperatures to
-overcome over-refusal.
+Tests Actor and Oracle over a 200-question benchmark with dynamic
+temperature scaling.
 
-``` bash
-python massive_test.py
-```
+    python massive_test.py
 
-**Output:**\
-`results_massive_200.csv` (Pass/Timeout rates + attempt logs)
+Output:\
+`results_massive_200.csv` (pass/fail rates, timeouts, attempt logs)
 
------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-##  Ethical Disclaimer & Misuse Warning
+## Ethical Use Notice
 
-The artifacts included in the repository—particularly the prompts and the
-temperature scaling algorithms for Incorrect Personas—are
-designed to bypass standard LLM security systems and
-generate credible misinformation (Strategic Deception).
+The repository contains mechanisms capable of generating controlled
+misinformation and inducing divergent cognitive behaviors in models.\
+These components exist strictly for research purposes:
 
-They are provided *exclusively* for the purposes of:
+-   reproducibility of experiments,\
+-   analysis of cognitive offloading,\
+-   studies on trust, misinformation, and human--AI interaction.
 
-- scientific reproducibility,
-- study of Cognitive Offloading,
-- research on Trust & Misinformation in HCI.
-
-Misuse could facilitate the automated production of
-disinformation.
-Researchers must operate in controlled environments, adhering to strict
-ethical guidelines and preventing any abuse.
+They must be used only within regulated research environments and never
+for real-world deployment or any context that may enable misuse.
